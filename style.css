@@ -7,3 +7,19 @@ h1{
 h2{
     background-color: bisque;
 }
+p{
+    color: yellowgreen;
+    background-color:black;
+
+
+}
+    h3{
+
+        border: 10px solid;
+        
+        
+    }
+    
+button{
+    color: blueviolet;
+}
