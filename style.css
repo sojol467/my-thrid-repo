@@ -22,4 +22,11 @@ p{
     
 button{
     color: blueviolet;
+
 }
+img {
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+
+  }
